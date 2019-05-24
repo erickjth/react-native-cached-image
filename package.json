@@ -47,23 +47,25 @@
   ],
   "typings": "./index.d.ts",
   "dependencies": {
-    "@react-native-community/netinfo": "^2.0.3",
+    "@react-native-community/netinfo": "^3.1.0",
     "crypto-js": "3.1.9-1",
-    "lodash": "^4.17.10",
-    "prop-types": "15.5.10",
+    "lodash": "^4.17.11",
+    "prop-types": "^15.7.2",
     "react-native-clcasher": "1.0.0",
-    "rn-fetch-blob": "^0.10.11",
+    "rn-fetch-blob": "^0.10.15",
     "url-parse": "^1.4.1"
   },
   "devDependencies": {
-    "babel-jest": "^21.0.2",
-    "babel-preset-env": "*",
-    "babel-preset-react-native": "^3.0.2",
-    "jest": "^21.0.2",
+    "@babel/core": "^7.4.4",
+    "babel-preset-react-native": "4.0.1",
+    "@babel/runtime": "^7.4.4",
+    "babel-jest": "^24.8.0",
+    "jest": "^24.8.0",
+    "metro-react-native-babel-preset": "^0.54.0",
     "jest-react-native": "^18.0.0",
-    "react": "16.4.1",
-    "react-native": "^0.48.3",
-    "react-test-renderer": "^15.6.1",
+    "react": "^16.8.3",
+    "react-native": "^0.59.8",
+    "react-test-renderer": "16.8.3",
     "regenerator-runtime": "^0.11.0"
   }
 }
