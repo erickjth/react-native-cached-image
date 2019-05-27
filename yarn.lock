@@ -5195,9 +5195,9 @@ react-is@^16.8.1, react-is@^16.8.3, react-is@^16.8.4:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.8.6.tgz#5bbc1e2d29141c9fbdfed456343fe2bc430a6a16"
   integrity sha512-aUk3bHfZ2bRSVFFbbeVS4i+lNPZr3/WM5jT2J5omUVV1zzcs1nAaf3l51ctA5FFvCRbhrH0bdAsRRQddFJZPtA==
 
-react-native-clcasher@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/react-native-clcasher/-/react-native-clcasher-1.0.0.tgz#1f77fb1a4abc6a0337ef19c991e04f19af6d2789"
+"react-native-clcasher@git://github.com/erickjth/react-native-async-storage-cache":
+  version "1.1.0"
+  resolved "git://github.com/erickjth/react-native-async-storage-cache#a5b9c2d43e8d89738f086480e22a331fefa4515c"
   dependencies:
     mock-async-storage "^1.0.3"
 
